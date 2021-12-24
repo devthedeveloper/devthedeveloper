@@ -3,6 +3,8 @@ I am a fullstack software engineer from India
 - Working on multiple frontend and backend project using React, NodeJS and PHP
 - I am expert in Backend Development.
 - **I am ninja 🥷  in**:- 
+- Blockchain Development
+- Smart Contracts
 - REACT JS,  
 - MongoDB,  
 - Node JS 
